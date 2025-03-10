@@ -19,3 +19,5 @@
 ![Grafana](https://img.shields.io/badge/Grafana-v7%2E3-blue)
 
 [Мой профиль на GitLab](https://gitlab.com/Kaoekb)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
