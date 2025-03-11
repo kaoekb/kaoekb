@@ -20,3 +20,4 @@
 
 [Мой профиль на GitLab](https://gitlab.com/Kaoekb)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaoekb&show_icons=true&theme=radical)
